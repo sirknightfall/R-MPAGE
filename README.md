@@ -1,3 +1,5 @@
+This is a work in progress and currently does not compile
+
 # Rick and Morty Character Rating
 
 A React web app that lets users search and rate Rick and Morty characters using [rickandmortyapi.com](https://rickandmortyapi.com/). User likes are stored in a Supabase database. Built for Codespaces for easy development from anywhere.
