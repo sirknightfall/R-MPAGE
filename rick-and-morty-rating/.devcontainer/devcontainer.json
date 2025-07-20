@@ -1,0 +1,15 @@
+{
+  "name": "Rick and Morty Rating",
+  "dockerFile": "Dockerfile",
+  "context": "..",
+  "appPort": [3000],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ],
+  "postCreateCommand": "npm install"
+}
