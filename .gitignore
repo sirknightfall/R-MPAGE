@@ -17,7 +17,7 @@
 
 # Codespaces/VSCode
 .vscode
-
+.devcontainer
 
 # logs
 npm-debug.log*
